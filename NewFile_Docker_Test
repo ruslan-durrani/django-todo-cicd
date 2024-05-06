@@ -1,0 +1,2 @@
+This is the new file:
+This will trigger Build, Test and Deploy stages defined in the Jenkinsfile2.
